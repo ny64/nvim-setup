@@ -1,0 +1,6 @@
+require('options')        
+require('keymaps')
+require('plugins')
+require('colorschemes')
+require('lsp')
+require('config/dap')
